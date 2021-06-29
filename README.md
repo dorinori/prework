@@ -1,3 +1,4 @@
+![demo](https://user-images.githubusercontent.com/34874473/123847727-c6c9b280-d8cb-11eb-9c6e-1744a80b9106.gif)
 # Pre-work - *Name of App Here*
 
 **Name of your app** is a tip calculator application for iOS.
@@ -28,7 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![demo](https://user-images.githubusercontent.com/34874473/123847758-ce895700-d8cb-11eb-9838-93f7b42cb52c.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
